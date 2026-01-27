@@ -1,0 +1,64 @@
+CDF1150A1_26_04_2022_13_11_29.csv — Unexpected column count: 18
+CDF1150A1_26_04_2022_13_16_29.csv — Unexpected column count: 18
+DUSTCS6K270P_26_04_2022_13_10_01.csv — Unexpected column count: 18
+DUSTCS6K270P_26_04_2022_13_15_01.csv — Unexpected column count: 18
+GSA060_26_04_2022_13_11_07.csv — Unexpected column count: 18
+GSA060_26_04_2022_13_16_07.csv — Unexpected column count: 18
+LG345N1C_26_04_2022_13_10_45.csv — Unexpected column count: 18
+LG345N1C_26_04_2022_13_15_45.csv — Unexpected column count: 18
+LG370Q1C_26_04_2022_13_10_23.csv — Unexpected column count: 18
+LG370Q1C_26_04_2022_13_15_23.csv — Unexpected column count: 18
+_26_04_2022_12_21_51.csv — Unexpected column count: 17
+_26_04_2022_12_22_13.csv — Unexpected column count: 17
+_26_04_2022_13_11_51.csv — Unexpected column count: 17
+_26_04_2022_13_12_13.csv — Unexpected column count: 17
+_26_04_2022_13_13_05.csv — Unexpected column count: 17
+_10_06_2022___.csv — Unexpected column count: 7
+CS3K320MB-T_10_01_2024_06_44_03.csv — Error reading CSV even with fallback: ParserError('Expected 26 fields in line 3, saw 27')
+_27_01_2024_12_40_01.csv — Unexpected column count: 21
+_27_01_2024___.csv — Unexpected column count: 12
+_31_01_2024_15_14_25.csv — Unexpected column count: 21
+_02_02_2024_15_26_16.csv — Unexpected column count: 21
+_09_02_2024_10_00_01.csv — Unexpected column count: 21
+_09_02_2024_14_41_16.csv — Unexpected column count: 21
+_09_02_2024_18_00_19.csv — Unexpected column count: 21
+_19_02_2024_07_29_24.csv — Unexpected column count: 21
+_29_02_2024_13_42_11.csv — Unexpected column count: 21
+_29_02_2024_13_49_03.csv — Unexpected column count: 21
+_27_03_2024_12_49_03.csv — Unexpected column count: 21
+QPEAK315_02_07_2024_08_56_16.csv — Error reading CSV: ParserError('field larger than field limit (131072)')
+_15_10_2024_17_00_01.csv — Unexpected column count: 21
+_15_10_2024_17_00_19.csv — Unexpected column count: 21
+_16_10_2024_16_06_16.csv — Unexpected column count: 21
+_16_10_2024_17_27_11.csv — Unexpected column count: 21
+_16_10_2024___.csv — Unexpected column count: 12
+_17_10_2024_07_34_06.csv — Unexpected column count: 21
+_17_10_2024_07_34_26.csv — Unexpected column count: 21
+_24_10_2024_13_41_16.csv — Unexpected column count: 21
+_24_10_2024_15_33_04.csv — Unexpected column count: 21
+_26_11_2024_15_28_04.csv — Unexpected column count: 21
+_26_11_2024_15_31_53.csv — Unexpected column count: 21
+_26_11_2024_15_45_01.csv — Unexpected column count: 21
+_26_11_2024___.csv — Unexpected column count: 12
+_28_11_2024_06_13_04.csv — Unexpected column count: 21
+_28_03_2025_19_18_00.csv — Unexpected column count: 21
+_28_03_2025_19_20_00.csv — Unexpected column count: 21
+_28_03_2025_19_40_00.csv — Unexpected column count: 21
+_06_05_2025_11_31_16.csv — Unexpected column count: 21
+_06_05_2025_11_34_06.csv — Unexpected column count: 21
+_06_05_2025_11_34_26.csv — Unexpected column count: 21
+_06_05_2025___.csv — Unexpected column count: 12
+_03_09_2025_17_32_19.csv — Unexpected column count: 21
+CHSM78N630_15_10_2025_15_59_06.csv — Error reading CSV: ParserError('Expected 26 fields in line 4, saw 27')
+_17_10_2025_17_33_04.csv — Unexpected column count: 21
+_18_10_2025_16_16_16.csv — Unexpected column count: 21
+LG370Q1C_19_10_2025_09_31_35.csv — Error processing I-V curve: TypeError("'<' not supported between instances of 'float' and 'str'")
+CHSM78N630_20_10_2025_14_39_06.csv — Error reading CSV: ParserError('Expected 26 fields in line 4, saw 27')
+CS6K270P_20_10_2025_13_40_19.csv — Error reading CSV: ParserError('Expected 26 fields in line 4, saw 27')
+LG345N1C_20_10_2025_12_21_53.csv — Error reading CSV even with fallback: ParserError('Expected 26 fields in line 4, saw 27')
+LG345N1C_20_10_2025_13_26_53.csv — Error reading CSV: ParserError('Expected 26 fields in line 6, saw 27')
+_22_10_2025_14_23_04.csv — Unexpected column count: 21
+_22_10_2025_14_58_04.csv — Unexpected column count: 21
+_22_10_2025___.csv — Unexpected column count: 12
+CIEH5C1325-V_25_12_2025_11_55_37.csv — Error reading CSV: ParserError('Expected 26 fields in line 5, saw 27')
+QPEAK315_28_12_2025_14_46_16.csv — Error reading CSV even with fallback: ParserError('Expected 26 fields in line 6, saw 27')
