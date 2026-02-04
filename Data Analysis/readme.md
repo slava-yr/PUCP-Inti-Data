@@ -31,25 +31,27 @@ This file contains time-resolved electrical and environmental measurements assoc
 * Impp: Current at the maximum power point [A].
 * Pmpp: Power at the maximum power point [W].
 * Isc: Short-circuit current, extrapolated from the I–V curve [A].
-* R2_Isc: Coefficient of determination of the linear fit used for Isc extrapolation.
 * Voc: Open-circuit voltage, extrapolated from the I–V curve [V].
-* R2_Voc: Coefficient of determination of the linear fit used for Voc extrapolation.
+* FF: Fill Factor [%].
 * Rsh: Shunt resistance, computed from I–V curve analysis [Ohm].
 * Rs: Series resistance, computed from I–V curve analysis [Ohm].
-* FF: Fill Factor [%].
+* R2_Isc: Coefficient of determination of the linear fit used for Isc extrapolation.
+* R2_Voc: Coefficient of determination of the linear fit used for Voc extrapolation.
 * V_ini: Initial voltage of the traced curve [V].
 * I_ini: Initial current of the traced curve [A].
 
 *Note:* Computed variables are derived per curve tracing. Detailed processing methods and assumptions are documented in the accompanying data report.
 
 #### Environmental variables:
-* G_spec_int: Irradiance computed via spectral irradiance integration [W/m²]. 
+* G_spec_int: Irradiance computed via spectral irradiance integration [W/m²].
+* APE: Average Proton Energy. Calculated by dividing the integral of the spectral irradiance and the integral of the photon flux [eV]. 
 * G_tilt20_start / end: Measured irradiance tilted 20 degrees at curve start / end [W/m²].
 * G_tilt15_start / end: Measured irradiance tilted 15 degrees at curve start / end [W/m²].
 * G_horiz_start / end : Measured horizontal irradiance at curve start / end [W/m²].
+* G_diffuse_start / end: Measured diffuse irradiance at curve start / end [W/m²]. 
 * G_east_start / end: Measured vertical irradiance facing east at curve start / end [W/m²].
 * G_west_start / end: Measured vertical irradiance facing west at curve start / end [W/m²].
-* G_refl_start / end: Measured reflected irradiance at curve start / end [W/m²].
+* G_refl_start / end: Measured irradiance at the back of the PV panels at curve start / end [W/m²].
 * module_temperature_center: Measured temperature at the center of the module [°C].
 * module_temperature_lateral: Measured lateral temperature of the corresponding module [°C].
 * air_temperature: Measured ambient air temperature [°C]. 
