@@ -14,7 +14,8 @@ This dataset provides outdoor measurements of photovoltaic (PV) modules represen
 - **Dataset Curation.ipynb**: Notebook showcasing the filters used to eliminate extreme outliers and/or measurement errors. 
 
 ### Data Visualization
-- **data_visualization.ipynb**: Notebook with examples of visualization for the dataset.
+- **Data Visualization.ipynb**: Notebook with examples of visualization for the dataset.
+- **figures**: Folder with figures from Datset Curation and Data Visualization.
 
 ### Examples
 - **Module Temperature Predictor.ipynb**: Notebook with an example application to estimate module temperature based on ambient variables. Comparision of different ML techniques and the NOCT baseline.
