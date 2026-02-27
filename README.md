@@ -21,3 +21,9 @@ This dataset provides outdoor measurements of photovoltaic (PV) modules represen
 - **Module Temperature Predictor.ipynb**: Notebook with an example application to estimate module temperature based on ambient variables. Comparision of different ML techniques and the NOCT baseline.
 - **Power Output Predictor.ipynb**:  Notebook with an example application to estimate module power output based on electrical and ambient variables. Comparision of different ML techniques and a formula baseline.
 
+## License
+
+This dataset is licensed under the Creative Commons Attribution 4.0 International (CC BY 4.0) license.
+
+The data were collected within the MatER Research Group at the Pontificia Universidad Católica del Perú (PUCP). Users are free to share and adapt the data for any purpose, including research and commercial use, provided appropriate credit is given to the original authors and source.
+
